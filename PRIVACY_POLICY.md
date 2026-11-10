@@ -62,8 +62,30 @@ LumaGrab initiates network connections **only** when explicitly triggered by use
 * The webpage does not use advertising cookies, behavioral trackers, or third-party marketing pixels.
 
 ---
+## 7. Data Retention & Deletion
 
-## 7. Contact Information
+* **Server-Side Retention:** **Zero (0) days.** Because Muallimun.Net does not collect or receive any user data, there are no server-side logs, accounts, or databases to retain or delete.
+* **Local Device Retention:** Configuration files (`settings.json`) and local download history (`library.db`) remain on your computer solely under your control. You can clear your history at any time inside the application UI or delete the `%APPDATA%\LumaGrab` directory (or Portable data folder) upon uninstallation.
+
+---
+
+## 8. GDPR (EU) & KVKK (Türkiye) Compliance Statement
+
+LumaGrab follows strict **Privacy by Design** and **Privacy by Default** engineering principles. Under the European Union General Data Protection Regulation (GDPR) and the Law on the Protection of Personal Data No. 6698 (KVKK - Türkiye), Muallimun.Net does **not** act as a data processor of your personal media or browsing history, as all operations occur locally on the end-user's hardware without external data transmission.
+
+---
+
+## 9. Children's Privacy
+
+LumaGrab does not knowingly collect, solicit, or process personal information from anyone, including children under the age of 13.
+
+---
+
+## 10. Governing Law & Updates to This Policy
+
+This Privacy Policy is governed by applicable laws in the Republic of Türkiye. Any updates to this policy will be published transparently in this repository with a revised "Last Updated" date.
+
+## 11. Contact Information
 
 If you have any questions regarding this Privacy Policy or LumaGrab's data practices, please contact us via:
 

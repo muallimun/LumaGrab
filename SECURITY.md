@@ -23,8 +23,7 @@ To protect yourself against tampered binaries, trojans, or bundled adware, downl
 1. **Official GitHub Releases:** [https://github.com/muallimun/LumaGrab/releases](https://github.com/muallimun/LumaGrab/releases)
 2. **Official Product Website:** [https://muallimun.com/LumaGrab/](https://muallimun.com/LumaGrab/) *(Direct links point to `github.com/muallimun/LumaGrab/releases`)*
 3. **Microsoft WinGet Package Manager:** `winget install Muallimun.LumaGrab`
-4. **Verified Software Directories:** Softpedia, FossHub, SourceForge, and MajorGeeks listings that distribute unmodified binaries matching the cryptographic SHA-256 hashes below.
-
+4. **Authorized Third-Party Mirrors:** Select software distribution directories may mirror LumaGrab releases. When downloading from any third-party software portal, **always verify** that the file's SHA-256 checksum matches the official hashes published in Section 3 below.
 > ⚠️ **Warning:** Never download LumaGrab from unofficial crack websites, torrent trackers, or third-party installers that wrap our executable in proprietary download managers.
 
 ---
