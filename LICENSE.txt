@@ -1,0 +1,22 @@
+LumaGrab — END-USER LICENSE AGREEMENT (PROPRIETARY FREEWARE EULA)
+Copyright (c) 2026 Muallimun.Net (https://muallimun.net/LumaGrab). All Rights Reserved.
+
+1. FREEWARE LICENSE GRANT
+LumaGrab is provided free of charge (Freeware) by Muallimun.Net for personal, educational, and non-commercial use. You may install and use unmodified copies of the official Setup or Portable distribution packages on your computers.
+
+2. PROPRIETARY OWNERSHIP & RESTRICTIONS (CLOSED-SOURCE)
+This software is NOT open-source. All source code, user interface designs, graphics, branding, and software architecture are the exclusive intellectual property of Muallimun.Net.
+You may NOT:
+  (a) Reverse engineer, decompile, disassemble, or attempt to extract the source code of the software;
+  (b) Modify, translate, patch, tamper with, or create derivative works based on the software;
+  (c) Sell, rent, lease, sublicense, bundle with adware, or redistribute modified copies for commercial gain.
+
+3. THIRD-PARTY COMPONENTS
+LumaGrab interacts locally with open-source media utilities including yt-dlp (Unlicense) and FFmpeg, which remain subject to their respective licenses.
+
+4. DISCLAIMER OF WARRANTY & RESPONSIBILITY
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. Users are solely responsible for complying with applicable copyright laws and third-party platform terms of service when downloading media content.
+
+Official Product Page : https://muallimun.net/LumaGrab
+Official Releases     : https://github.com/muallimun/LumaGrab/releases
+Publisher             : Muallimun.Net
