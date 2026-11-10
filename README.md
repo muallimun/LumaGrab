@@ -46,7 +46,8 @@
 * **⏸️ Parallel Queue with Byte-Level Resume:** Download up to 5 streams simultaneously, pause anytime, and resume right where you left off without restarting.
 * **💬 Subtitles & Browser Cookie Support:** Download `.srt` subtitles in multiple languages, optionally embed them into videos, and handle age-restricted or member-only content via local browser cookies.
 * **🌍 Instant 8-Language Switching:** Real-time UI translation across **English, Turkish, Arabic, Russian, Persian, Hindi, French, and German** without restarting the app, paired with **Dark / Light / System** themes.
-* **🔄 Built-in GitHub Update Center:** Checks official releases from `muallimun/LumaGrab` and downloads updates directly inside the application.
+* **🔄 Dual Update Architecture (App + Core Engine):** Update the core `yt-dlp` extraction engine independently in seconds whenever video platforms change their algorithms, and receive full LumaGrab application updates via the built-in GitHub Update Center.
+
 
 ---
 
@@ -57,6 +58,7 @@
 * **Oynatma Listesi (Playlist)** videolarını kendi klasörüne sıralı indirme ve **Toplu Bağlantı (Batch URL)** desteği.
 * Yerleşik **FFmpeg Dönüştürücü**, **Altyazı (.srt) İndirme**, **Pano Bağlantı Algılayıcı** ve **8 Dilde Canlı Arayüz**.
 * Resmi Tanıtım Sayfası: **[https://muallimun.com/LumaGrab](https://muallimun.com/LumaGrab)**
+* **🚀 Bağımsız Çekirdek Motor Güncelleyici (`yt-dlp`):** Video platformları algoritmalarını değiştirdiğinde, tüm programı yeniden indirip kurmaya gerek kalmadan Ayarlar sekmesinden yalnızca `yt-dlp` çekirdek motorunu saniyeler içinde güncelleyebilme.
 
 ---
 
