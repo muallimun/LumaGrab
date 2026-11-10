@@ -1,0 +1,104 @@
+================================================================================
+LUMAGRAB — THIRD-PARTY OPEN SOURCE SOFTWARE NOTICES & ATTRIBUTION
+================================================================================
+
+Product   : LumaGrab — Universal Media Downloader & FFmpeg Studio
+Publisher : Muallimun.Net ([https://muallimun.com/LumaGrab/](https://muallimun.com/LumaGrab/))
+Repository: [https://github.com/muallimun/LumaGrab](https://github.com/muallimun/LumaGrab)
+
+LumaGrab is proprietary freeware developed by Muallimun.Net. In accordance with
+applicable open-source software licenses, this file contains copyright notices,
+attributions, and license terms for third-party open-source components and
+standalone command-line binaries distributed with or invoked by LumaGrab.
+
+--------------------------------------------------------------------------------
+1. yt-dlp & yt-dlp-ejs
+--------------------------------------------------------------------------------
+Source   : [https://github.com/yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+           [https://github.com/yt-dlp/yt-dlp-ejs](https://github.com/yt-dlp/yt-dlp-ejs)
+License  : The Unlicense (Public Domain)
+
+This is free and unencumbered software released into the public domain. Anyone
+is free to copy, modify, publish, use, compile, sell, or distribute this
+software, either in source code form or as a compiled binary, for any purpose,
+commercial or non-commercial, and by any means.
+
+--------------------------------------------------------------------------------
+2. FFmpeg & FFprobe (Standalone Command-Line Executables)
+--------------------------------------------------------------------------------
+Website  : [https://ffmpeg.org/](https://ffmpeg.org/)
+Source   : [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+License  : GNU Lesser General Public License (LGPL) v2.1+ and/or
+           GNU General Public License (GPL) v2/v3.
+
+Compliance & Architecture Notice:
+LumaGrab does NOT modify, statically link, or dynamically link against FFmpeg C
+libraries. LumaGrab interacts with unmodified standalone "ffmpeg.exe" and
+"ffprobe.exe" executables strictly via separate operating system command-line
+subprocesses (CLI/IPC) for local stream remuxing and audio/video conversion.
+
+FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.
+Copyright (c) 2000-2026 the FFmpeg developers.
+Complete corresponding source code for the unmodified FFmpeg binaries is
+available at [https://ffmpeg.org/download.html](https://ffmpeg.org/download.html) and [https://github.com/FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg).
+Full texts of the GNU GPL v3 and GNU LGPL v2.1 can be found at:
+[https://www.gnu.org/licenses/](https://www.gnu.org/licenses/)
+
+--------------------------------------------------------------------------------
+3. Deno JavaScript/TypeScript Runtime
+--------------------------------------------------------------------------------
+Website  : [https://deno.com/](https://deno.com/)
+Source   : [https://github.com/denoland/deno](https://github.com/denoland/deno)
+License  : MIT License
+Copyright (c) 2018-2026 the Deno authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+--------------------------------------------------------------------------------
+4. CustomTkinter & DarkDetect
+--------------------------------------------------------------------------------
+- CustomTkinter ([https://github.com/TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter))
+  Copyright (c) 2023 Tom Schimansky — Licensed under the MIT License.
+- DarkDetect ([https://github.com/albertosottile/darkdetect](https://github.com/albertosottile/darkdetect))
+  Copyright (c) 2019 Alberto Sottile — Licensed under the BSD-3-Clause License.
+
+--------------------------------------------------------------------------------
+5. Pillow (Python Imaging Library Fork)
+--------------------------------------------------------------------------------
+Website  : [https://python-pillow.org/](https://python-pillow.org/)
+Source   : [https://github.com/python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+License  : MIT-CMU License
+Copyright (c) 1997-2011 by Secret Labs AB, Copyright (c) 1995-2011 by Fredrik
+Lundh, Copyright (c) 2010-2026 by Jeffrey A. Clark and contributors.
+
+--------------------------------------------------------------------------------
+6. Requests & HTTP Networking Libraries
+--------------------------------------------------------------------------------
+- Requests ([https://github.com/psf/requests](https://github.com/psf/requests))
+  Copyright (c) 2019-2026 Kenneth Reitz — Apache License 2.0
+- urllib3 ([https://github.com/urllib3/urllib3](https://github.com/urllib3/urllib3))
+  Copyright (c) 2008-2026 Andrey Petrov — MIT License
+- idna ([https://github.com/kjd/idna](https://github.com/kjd/idna))
+  Copyright (c) 2013-2026 Kim Davies — BSD-3-Clause License
+- charset-normalizer ([https://github.com/Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer))
+  Copyright (c) 2019-2026 Ahmed TAHRI — MIT License
+- certifi ([https://github.com/certifi/python-certifi](https://github.com/certifi/python-certifi))
+  Mozilla Public License 2.0 (MPL 2.0)
+
+--------------------------------------------------------------------------------
+7. Python Runtime, PyInstaller Bootloader & Inno Setup
+--------------------------------------------------------------------------------
+- Python Runtime & Standard Library ([https://www.python.org/](https://www.python.org/))
+  Copyright (c) 2001-2026 Python Software Foundation — PSF License Version 2.
+- PyInstaller Bootloader ([https://pyinstaller.org/](https://pyinstaller.org/))
+  Copyright (c) 2010-2026 PyInstaller Development Team — GPLv2+ with Special
+  Bootloader Exception permitting proprietary executable packaging.
+- Inno Setup ([https://jrsoftware.org/isinfo.php](https://jrsoftware.org/isinfo.php))
+  Copyright (c) 1997-2026 Jordan Russell & Martijn Laan — Inno Setup License.
+================================================================================
