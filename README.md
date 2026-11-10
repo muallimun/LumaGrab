@@ -9,7 +9,7 @@
   [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-0F172A?style=for-the-badge&logo=windows)](https://github.com/muallimun/LumaGrab/releases/latest)
   [![License](https://img.shields.io/badge/License-Freeware%20(Proprietary)-F59E0B?style=for-the-badge)](LICENSE.txt)
 
-  🌐 **[Official Product Page (muallimun.net/LumaGrab)](https://muallimun.net/LumaGrab)** • 📦 **[Download Latest Version](https://github.com/muallimun/LumaGrab/releases/latest)** • 🐛 **[Report an Issue](https://github.com/muallimun/LumaGrab/issues)**
+  🌐 **[Official Product Page (muallimun.net/LumaGrab)](https://muallimun.com/LumaGrab)** • 📦 **[Download Latest Version](https://github.com/muallimun/LumaGrab/releases/latest)** • 🐛 **[Report an Issue](https://github.com/muallimun/LumaGrab/issues)**
 
   *Available in 8 Languages: English • Türkçe • العربية • Русский • فارسی • हिन्दी • Français • Deutsch*
 </div>
@@ -56,7 +56,7 @@
 * **4K / 1080p Otomatik MP4 Birleştirme** ve kapak resimli **320 kbps MP3 / M4A / FLAC** ses ayıklama.
 * **Oynatma Listesi (Playlist)** videolarını kendi klasörüne sıralı indirme ve **Toplu Bağlantı (Batch URL)** desteği.
 * Yerleşik **FFmpeg Dönüştürücü**, **Altyazı (.srt) İndirme**, **Pano Bağlantı Algılayıcı** ve **8 Dilde Canlı Arayüz**.
-* Resmi Tanıtım Sayfası: **[https://muallimun.net/LumaGrab](https://muallimun.net/LumaGrab)**
+* Resmi Tanıtım Sayfası: **[https://muallimun.com/LumaGrab](https://muallimun.com/LumaGrab)**
 
 ---
 
@@ -77,5 +77,5 @@ All official binaries are built cleanly and distributed exclusively via `github.
 * Reverse engineering, decompiling, modifying, rebranding, or commercial redistribution of the binaries is strictly prohibited. See [LICENSE.txt](LICENSE.txt) for full terms.
 
 <div align="center">
-  <sub>Copyright © 2026 <b>Muallimun.Net</b> — <a href="https://muallimun.net/LumaGrab">muallimun.net/LumaGrab</a>. All Rights Reserved.</sub>
+  <sub>Copyright © 2026 <b>Muallimun.Net</b> — <a href="https://muallimun.com/LumaGrab">muallimun.net/LumaGrab</a>. All Rights Reserved.</sub>
 </div>
